@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JitendraGosavi01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m JITENDRA RAJENDRA GOSAVI
+- 👀 I’m interested in Learning new technologies
+- 🌱 I’m currently learning Microservices in JS
+- 💞️ I’m looking to collaborate on NPM Packages
+- 📫 How to reach me jiendrarajendragosavi@gmail.com
 
 <!---
 JitendraGosavi01/JitendraGosavi01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
